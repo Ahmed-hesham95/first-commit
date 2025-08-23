@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgb(6, 140, 6);
+}
+.logo{
+    width: auto;
+    height: 100px;
+}
